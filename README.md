@@ -1,4 +1,4 @@
-# 🚀 Real-Time Coding Platform  
+# 💻 Collaborative Coding Platform  
 **_Learn better by coding together._**
 
 A scalable, secure, and interactive platform for solving coding challenges—built in the spirit of LeetCode, but with a social and collaborative twist.
